@@ -1,7 +1,7 @@
  👋 Hi, I’m Ashwini
-- 🌱 I recently completed Data Analytics Certification Course.
--  I'm a experienced Talent Acquistion specialist.
-- 👀 Seeking for an entry level Data Analyst opportinity in UK / remote jobs
+- 🌱 I recently accomplished Data Analytics Certification.
+-  I'm an experienced Talent Acquistion specialist, worked as an Indepenant Recruitment Consultant.
+- 👀 Seeking for an entry level Data Analyst opportinity in UK / remote jobs.
 
 
   
